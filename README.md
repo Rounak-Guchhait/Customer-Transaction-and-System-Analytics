@@ -1,4 +1,4 @@
-# Customer Purchase Behavior Analytics
+# Customer Transaction & System Analytics
 
 > **An end-to-end data analytics project that transforms raw customer shopping data into actionable business insights using Python, SQL, and Power BI.**
 
