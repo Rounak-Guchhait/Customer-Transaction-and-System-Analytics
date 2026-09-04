@@ -152,7 +152,7 @@ The dashboard enables stakeholders to identify:
 # Repository Structure
 
 ```text
-📦 Customer-Purchase-Behavior-Analytics
+📦 Customer Transaction & System Analytics
 │
 ├── Customer Behavior Dashboard.pbix
 ├── Customer Behavior Dashboard.png
